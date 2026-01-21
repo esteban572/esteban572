@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **School Projects**
 
-- 👨‍💻 All of my projects are available at [[https://esteban-portfolio-18yg74maz-esteban-ibarras-projects-30cb10dd.vercel.app/](https://esteban-portfolio-18yg74maz-esteban-ibarras-projects-30cb10dd.vercel.app/](https://first-responder-connect-zcnl.vercel.app/))
+- 👨‍💻 All of my projects are available at [[https://esteban-portfolio-18yg74maz-esteban-ibarras-projects-30cb10dd.vercel.app/]
 
 - 💬 Ask me about **react, css, html5, javascript**
 

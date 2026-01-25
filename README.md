@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **School Projects**
 
-- 👨‍💻 All of my projects are available at [(estebanibarra.dev)]
+- 👨‍💻 All of my projects are available at [(https://www.estebanibarra.dev)]
 
 - 💬 Ask me about **react, css, html5, javascript**
 

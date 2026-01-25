@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteban572" alt="esteban572" /></a> </p>
 
-- 🔭 I’m currently working on [Propquest](propquest.ai)
+- 🔭 I’m currently working on Propquest.ai
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **School Projects**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/esteban572/ubuntu-mac-portfolio.git)]
+- 👨‍💻 All of my projects are available at [(estebanibarra.dev)]
 
 - 💬 Ask me about **react, css, html5, javascript**
 

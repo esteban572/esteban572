@@ -1,36 +1,188 @@
-<h1 align="center">Hi 👋, I'm Esteban Ibarra</h1>
-<h3 align="center">A passionate frontend & backend developer from San Diego, CA</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban572&label=Profile%20views&color=0e75b6&style=flat" alt="esteban572" /> </p>
+# Esteban Ibarra
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteban572" alt="esteban572" /></a> </p>
+### AI Systems Architect • Full-Stack Engineer • Technology Entrepreneur
 
-- 🔭 I’m currently working on Propquest.ai
+**Building intelligent systems at the intersection of technology, business, and healthcare.**
 
-- 🌱 I’m currently learning **Python**
+I design, develop, and integrate software solutions that help organizations
+automate operations, increase productivity, and scale.
 
-- 👯 I’m looking to collaborate on **School Projects**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.estebanibarra.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-ibarra-66533a3a7/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@e_steban)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.j.ibarra@gmail.com)
 
-- 👨‍💻 All of my projects are available at https://www.estebanibarra.dev
+![Profile Views](https://komarev.com/ghpvc/?username=esteban572&label=Profile%20Views&color=2563eb&style=flat-square)
 
-- 💬 Ask me about **react, css, html5, javascript**
+</div>
 
-- 📫 How to reach me **esteban.j.ibarra@gmail.com**
+---
 
-- ⚡ Fun fact **Im a Paramedic**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/esteban-ibarra-66533a3a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/esteban-ibarra-66533a3a7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@e_steban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@e_steban" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/78526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="78526" height="30" width="40" /></a>
-</p>
+I'm a multidisciplinary technology entrepreneur, full-stack developer,
+and business systems consultant with experience building software,
+operating businesses, and developing technology-driven solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+My work focuses on connecting **software engineering, artificial
+intelligence, business operations, and industry expertise** to solve
+complex problems.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteban572&show_icons=true&locale=en&layout=compact" alt="esteban572" /></p>
+I specialize in designing integrated systems that automate workflows,
+reduce operational friction, and create opportunities for growth.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esteban572&show_icons=true&locale=en" alt="esteban572" /></p>
+My background spans:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteban572&" alt="esteban572" /></p>
+- **AI & Autonomous Systems** — Agent orchestration, AI infrastructure,
+  workflow automation, and intelligent software.
+- **Software Engineering** — Full-stack applications, SaaS platforms,
+  APIs, databases, and cloud infrastructure.
+- **Business Systems Consulting** — Process optimization, systems
+  integration, automation, and digital transformation.
+- **Healthcare Technology** — Applications informed by 12 years of
+  frontline emergency medical services experience.
+- **Entrepreneurship** — Building and operating technology-driven
+  businesses across multiple industries.
+
+I'm also advancing my clinical education through a
+Paramedic-to-RN program, with a long-term goal of pursuing
+doctoral-level nurse anesthesia education.
+
+I believe the most valuable technology doesn't simply introduce
+new tools — it connects people, processes, and systems to produce
+measurable results.
+
+---
+
+## What I'm Building
+
+### Stark Intelligence
+**Autonomous AI Infrastructure & Business Orchestration**
+
+Developing a sovereign AI ecosystem designed to coordinate
+intelligent agents, automate complex workflows, and support
+technology-driven business operations.
+
+**Focus:** AI Agents • Distributed Systems • Orchestration • Automation
+
+### PropQuest.ai
+**Real Estate Intelligence & SaaS**
+
+A real estate technology platform focused on property research,
+lead discovery, underwriting, and workflow automation.
+
+**Focus:** SaaS • Real Estate Technology • Data Integration • AI
+
+### Paranet
+**Healthcare Professional Networking**
+
+Building a platform designed to connect healthcare and EMS
+professionals, support collaboration, and explore new approaches
+to professional development and preceptorship.
+
+**Focus:** Healthcare Technology • Networking • Professional Development
+
+### Medical Equipment Sourcing Platform
+**Healthcare Procurement Technology**
+
+Developing software focused on simplifying medical equipment
+discovery and sourcing.
+
+**Focus:** Healthcare • Procurement • Marketplace Technology
+
+---
+
+## Technical Expertise
+
+### Software Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Infrastructure & Databases
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### AI & Automation
+
+![AI Agents](https://img.shields.io/badge/AI-Agent_Systems-7C3AED?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Local_%26_Cloud-0891B2?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-Workflow_Engineering-059669?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Tool_Integration-374151?style=flat-square)
+![APIs](https://img.shields.io/badge/APIs-Systems_Integration-EA580C?style=flat-square)
+
+---
+
+## Industries & Specializations
+
+| Industry | Areas of Focus |
+|---|---|
+| Artificial Intelligence | Autonomous agents, orchestration, intelligent automation |
+| Enterprise Technology | Systems integration, operational automation, internal tools |
+| SaaS | Product development, subscriptions, APIs, platform architecture |
+| Healthcare | Clinical workflows, EMS technology, healthcare applications |
+| Real Estate | Property intelligence, underwriting, lead generation |
+| Business Operations | Process optimization, digital transformation, vertical integration |
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esteban572&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban572&layout=compact&hide_border=true&theme=github_dark)
+
+</div>
+
+---
+
+## Let's Build Something Valuable
+
+I work at the intersection of engineering, automation,
+and business strategy.
+
+I'm interested in collaborating with founders, organizations,
+and teams that want to:
+
+- Develop custom software and SaaS platforms.
+- Integrate AI into existing business operations.
+- Automate repetitive and complex workflows.
+- Modernize legacy systems.
+- Build healthcare technology solutions.
+- Connect fragmented business systems.
+- Transform ideas into scalable digital products.
+
+**Open to select consulting engagements, software development
+contracts, technical partnerships, and collaborative opportunities.**
+
+<div align="center">
+
+### Have a project in mind?
+
+[**Visit My Portfolio**](https://www.estebanibarra.dev)
+&nbsp;•&nbsp;
+[**Connect on LinkedIn**](https://www.linkedin.com/in/esteban-ibarra-66533a3a7/)
+&nbsp;•&nbsp;
+[**Send an Email**](mailto:esteban.j.ibarra@gmail.com)
+
+---
+
+*"Technology creates the most value when it connects systems,
+solves real problems, and enables people to accomplish more."*
+
+</div>

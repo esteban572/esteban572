@@ -1,396 +1,195 @@
 <div align="center">
 
-# 👋 Esteban Ibarra
+# Esteban Ibarra
 
-### AI Systems Architect | Full-Stack Engineer | SaaS Founder | Technology Entrepreneur
+**Full-stack engineer & founder — web, iOS, Android and AI systems, shipped end to end.**
 
-**Building intelligent software, autonomous AI systems, and technology-driven businesses.**
+12 years in emergency medical services, now building products across healthcare, real estate, fitness and commerce.
 
-I architect, develop, deploy, and integrate software solutions that connect artificial intelligence, business operations, and real-world industry expertise.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.estebanibarra.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-ibarra-66533a3a7/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@e_steban)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.j.ibarra@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=esteban572&label=Profile%20Views&color=2563eb&style=flat-square)
+[![Portfolio](https://img.shields.io/badge/estebanibarra.dev-0F172A?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://www.estebanibarra.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-ibarra-66533a3a7/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@e_steban)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.j.ibarra@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Live products
 
-I'm **Esteban Ibarra**, a full-stack software engineer, AI systems builder, technology entrepreneur, and business systems consultant.
+<table>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/projects/silverback.png" width="56" height="56" alt="Silverback OS icon"></td>
+<td valign="top">
 
-I specialize in designing and integrating intelligent software systems that help organizations automate operations, improve efficiency, and scale.
+**[Silverback OS](https://www.silverbackos.com)** · `beta` · web, iOS, Android<br>
+An AI performance coach: workouts, nutrition, daily check-ins, ranks and a community feed, with native apps on both platforms.<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,swift,kotlin,vercel" height="26" alt="Next.js, React, TypeScript, Tailwind, Supabase, Swift, Kotlin, Vercel"> &nbsp; SwiftUI · Jetpack Compose · Claude API · Stripe · RevenueCat · Sentry
 
-My work spans:
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/paranet.png" width="56" height="56" alt="ParaNet icon"></td>
+<td valign="top">
 
-- 🤖 **Artificial Intelligence:** Autonomous agents, multi-agent orchestration, LLM integrations, and AI-powered business automation.
-- 💻 **Software Engineering:** Full-stack applications, mobile development, SaaS platforms, APIs, and database architecture.
-- 🏗️ **Infrastructure:** Self-hosted systems, distributed computing, Linux servers, containerization, and private networking.
-- 📈 **Business Technology:** Systems integration, workflow automation, operational software, and digital transformation.
-- 🏥 **Healthcare Innovation:** Healthcare applications informed by more than a decade of frontline emergency medical services experience.
-- 🚀 **Entrepreneurship:** Developing technology products across AI, healthcare, real estate, financial technology, and business operations.
+**[ParaNet](https://paranet.tech)** · `live` · web, iOS in progress<br>
+The worldwide network for first responders: profiles, jobs, reviews, groups and messaging.<br>
+<img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,supabase,cloudflare,workers,swift" height="26" alt="React, Vite, TypeScript, Tailwind, Supabase, Cloudflare, Workers, Swift"> &nbsp; Radix UI · TanStack Query · SwiftUI · Sentry
 
-### Beyond Software
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/propquest.png" width="56" height="56" alt="PropQuest icon"></td>
+<td valign="top">
 
-I bring **12 years of emergency medical services experience** to my work in healthcare technology and operational systems.
+**[PropQuest.ai](https://propquest.ai)** · `live` · web, iOS in progress<br>
+AI-native real estate investment platform: property search, research and underwriting in one workspace.<br>
+<img src="https://skillicons.dev/icons?i=nuxtjs,vue,pinia,tailwind,laravel,php,mysql,redis,docker" height="26" alt="Nuxt, Vue, Pinia, Tailwind, Laravel, PHP, MySQL, Redis, Docker"> &nbsp; Mapbox · Meilisearch · LiveKit · Stripe · Expo / React Native
 
-I'm also pursuing my nursing education, with long-term interests in advanced clinical practice and healthcare innovation.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/ascend.png" width="56" height="56" alt="Ascénd icon"></td>
+<td valign="top">
 
-My approach combines hands-on engineering, business experience, and domain knowledge to create technology that solves practical problems.
+**[Ascénd](https://www.ascendprive.shop)** · `live` · web<br>
+Production e-commerce platform: storefront, checkout with stackable discount codes, customer accounts with Google sign-in and passkeys, an affiliate program with an earnings ledger, order tracking and an operator dashboard.<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,redis,vercel" height="26" alt="Next.js, React, TypeScript, Tailwind, Supabase, Redis, Vercel"> &nbsp; Upstash · Resend · Sentry · Claude API
 
-**My philosophy:** Build systems that do more than function independently. Make them work together.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/foreclosure-leads.png" width="56" height="56" alt="Foreclosure Leads CRM icon"></td>
+<td valign="top">
 
----
+**[Foreclosure Leads CRM](https://esteban572.github.io)** · `preparing for Google Play` · Android<br>
+Import foreclosure lists, find property owners from county GIS records, and track every call.<br>
+<img src="https://skillicons.dev/icons?i=react,ts,sqlite,cloudflare,workers,py" height="26" alt="React Native, TypeScript, SQLite, Cloudflare, Workers, Python"> &nbsp; Expo · React Native · Cloudflare D1 · Sentry
 
-# 🏢 Products & Ventures
+</td>
+</tr>
+</table>
 
-I develop software products across multiple industries, with an emphasis on automation, scalability, and intelligent systems.
+## In development
 
-Some projects are publicly available, while others are in active development or remain proprietary.
+<table>
+<tr>
+<td width="72" align="center" valign="top"><img src="assets/projects/preceptor.png" width="56" height="56" alt="Preceptor icon"></td>
+<td valign="top">
 
-## 🤖 Artificial Intelligence & Autonomous Systems
+**Preceptor** · Android, iOS planned<br>
+Offline-first study app for pre-licensure nursing students.<br>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="26" alt="Kotlin, Android Studio"> &nbsp; Kotlin Multiplatform · Compose Multiplatform · Material 3 · Room · Koin
 
-### Stark Intelligence
-**Sovereign AI Infrastructure & Autonomous Business Orchestration**
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/preflight.png" width="56" height="56" alt="Preflight icon"></td>
+<td valign="top">
 
-An AI infrastructure initiative focused on coordinating intelligent agents, integrating tools, and automating complex business workflows.
+**Preflight** · web (PWA), Android<br>
+Offline study and reference tool for flight-paramedic (FP-C) exam preparation.<br>
+<img src="https://skillicons.dev/icons?i=react,vite,ts,tailwind,kotlin" height="26" alt="React, Vite, TypeScript, Tailwind, Kotlin"> &nbsp; PWA · IndexedDB · Jetpack Compose
 
-Areas of development include:
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/legacy-financial.png" width="56" height="56" alt="Legacy Financial icon"></td>
+<td valign="top">
 
-- Multi-agent orchestration
-- Autonomous task execution
-- AI-assisted software engineering
-- Human-in-the-loop approval workflows
-- Distributed infrastructure
-- Private networking
-- Business process automation
-- MCP and external tool integrations
+**Legacy Financial** · web<br>
+Credit-repair brand site with a lead funnel and an owner dashboard.<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase" height="26" alt="Next.js, React, TypeScript, Tailwind, Supabase"> &nbsp; Drizzle · Stripe · OpenAI · Framer Motion
 
-**Technologies & Concepts:** AI Agents · LLMs · Python · APIs · Docker · Linux · Distributed Systems · MCP
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/reservo.png" width="56" height="56" alt="Reservo icon"></td>
+<td valign="top">
 
-### Silverback OS
-**Operating System & Infrastructure Project**
+**Reservo** · web<br>
+White-label booking and management for high-end barber shops.<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,prisma,postgres" height="26" alt="Next.js, React, TypeScript, Prisma, PostgreSQL"> &nbsp; NextAuth · Stripe · Resend
 
-A software systems initiative within my broader engineering portfolio.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="assets/projects/tenantly.png" width="56" height="56" alt="Tenantly icon"></td>
+<td valign="top">
 
-Technical documentation and demonstrations are being prepared.
+**Tenantly** · iOS, Android, web<br>
+Property management that connects landlords and tenants.<br>
+<img src="https://skillicons.dev/icons?i=vue,ts,tailwind,supabase" height="26" alt="Vue, TypeScript, Tailwind, Supabase"> &nbsp; Ionic · Capacitor
 
----
+</td>
+</tr>
+</table>
 
-## 🏥 Healthcare Technology
-
-### Paranet
-**Healthcare & EMS Professional Networking**
-
-A platform concept focused on connecting healthcare professionals, supporting professional collaboration, and improving access to industry-specific resources.
-
-**Focus:** Healthcare Networking · Professional Collaboration · EMS Technology
-
-### Preceptor
-**Nursing Education & Clinical Preceptorship**
-
-A nursing-focused application exploring tools for clinical education, preceptorship, and professional development.
-
-**Focus:** Nursing Education · Clinical Workflows · Healthcare Software
-
-### Medical Equipment Sourcing
-**Healthcare Equipment Discovery & Procurement**
-
-A software initiative focused on medical equipment discovery and sourcing workflows.
-
-**Focus:** Healthcare Procurement · Product Discovery · Business Software
-
----
-
-## 🏠 Real Estate & Property Technology
-
-### PropQuest.ai
-**Real Estate Intelligence & Underwriting SaaS**
-
-A real estate research and workflow platform designed to help users discover opportunities, analyze properties, and streamline investment-related processes.
-
-Areas of development include:
-
-- Property intelligence
-- Seller and buyer research
-- Lead generation
-- Property underwriting
-- Workflow automation
-- Document generation
-- CRM integrations
-
-**Focus:** SaaS · Real Estate Data · Automation · AI Integration
-
-### Foreclosure Leads
-**Real Estate Lead Discovery**
-
-A real estate technology project focused on foreclosure-related lead discovery and research.
-
-**Focus:** Property Research · Lead Generation · Real Estate Technology
-
-### Tenantly
-**Property Technology**
-
-A software product within my real estate and property technology portfolio.
-
-Additional product details and demonstrations are forthcoming.
+**Also building:** **Stark Intelligence**, AI orchestration that coordinates coding agents (Claude Code, Codex) under human approval gates · **Dialo**, an AI auto-dialer and CRM for real estate leads · **Payout OS** · medical equipment sourcing.
 
 ---
 
-## 💳 Financial Technology
+## Tech stack
 
-### Legacy Financial
-**Financial Technology Platform**
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,py,php,swift,kotlin,bash" height="44" alt="TypeScript, JavaScript, HTML, CSS, Python, PHP, Swift, Kotlin, Bash">
 
-A financial technology project within my software portfolio.
+**Frontend & mobile**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,vite,tailwind,pinia,androidstudio,apple" height="44" alt="React, Next.js, Vue, Nuxt, Vite, Tailwind, Pinia, Android, Apple">
 
-Additional technical documentation and product details are forthcoming.
-
-### Payout OS
-**Financial Operations Software**
-
-A software initiative focused on financial operations.
-
-Additional product details are forthcoming.
-
----
-
-## 🏢 Business Applications & Platforms
-
-### Reservo
-**Business Software Platform**
-
-A business application within my software development portfolio.
-
-Additional product details are forthcoming.
-
-### Ascend
-**Business Software Platform**
-
-A software initiative focused on business applications and digital systems.
-
-Additional documentation is forthcoming.
-
-### Dialo
-**Software Platform**
-
-A software product within my broader application development portfolio.
-
-Additional product information is forthcoming.
-
----
-
-# 🛠️ Technical Expertise
-
-My technical experience spans application development, mobile engineering, backend architecture, AI systems, databases, infrastructure, and deployment.
-
-## 💻 Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-## ⚛️ Frontend & Mobile Engineering
-
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=tanstack&logoColor=white)
 
-**Capabilities**
+**Backend & data**<br>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,redis,prisma,nodejs,laravel" height="44" alt="Supabase, PostgreSQL, MySQL, SQLite, Redis, Prisma, Node.js, Laravel">
 
-- Responsive web application development
-- Component-based frontend architecture
-- Cross-platform mobile applications
-- Interactive dashboards and user interfaces
-- Client-side state management
-- API integration
-- Modern JavaScript development
-
-## ⚙️ Backend Engineering & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square)
-![API Security](https://img.shields.io/badge/API_Security-DC2626?style=flat-square)
-![Authentication](https://img.shields.io/badge/Authentication-374151?style=flat-square)
-
-**Capabilities**
-
-- RESTful API design and development
-- API key generation and management
-- Authentication and authorization
-- Token-based access control
-- Role-based permissions
-- Third-party API integrations
-- Webhook development
-- Request validation
-- Rate limiting
-- Backend service architecture
-- Payment and subscription integrations
-- Secure credential management
-
-## 🗄️ Databases, Caching & Search
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=black)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Capabilities**
+**Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,docker,githubactions,linux,git,sentry" height="44" alt="Cloudflare, Cloudflare Workers, Vercel, Docker, GitHub Actions, Linux, Git, Sentry">
 
-- Relational and NoSQL database architecture
-- Schema design and migrations
-- Database indexing
-- Query optimization
-- Redis caching
-- Session management
-- Full-text search with Meilisearch
-- Search API integration
-- Data synchronization
-- Application data modeling
-
-## 🐳 DevOps, Cloud & Self-Hosting
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
-**Capabilities**
+**AI, payments & services**
 
-- Self-hosted application infrastructure
-- Linux server administration
-- Docker containerization
-- Cloud deployment
-- Reverse proxy configuration
-- Private networking
-- CI/CD pipelines
-- Distributed computing environments
-- Raspberry Pi infrastructure
-- Infrastructure automation
-- Service monitoring
-- Deployment and maintenance
-
-## 🤖 AI Engineering & Automation
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-0891B2?style=flat-square)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-374151?style=flat-square)
-![Automation](https://img.shields.io/badge/Workflow_Automation-059669?style=flat-square)
-![Orchestration](https://img.shields.io/badge/Agent_Orchestration-4F46E5?style=flat-square)
-
-**Capabilities**
-
-- AI agent development
-- Multi-agent orchestration
-- LLM API integration
-- AI-assisted software engineering
-- Model Context Protocol integrations
-- Autonomous workflow architecture
-- Human-in-the-loop approval systems
-- Local and cloud AI infrastructure
-- Business process automation
-- AI-powered application features
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square&logo=livekit&logoColor=white)
 
 ---
 
-# 🏗️ Software Architecture & Systems Integration
+## What I work on
 
-I focus on developing software that works as part of a larger operational ecosystem.
+- **Product engineering:** web and native apps from schema to store listing: auth, payments, subscriptions, offline-first data, push, analytics
+- **AI systems:** LLM features inside products, agent orchestration with human approval gates, MCP tool integrations
+- **Backend & data:** Postgres/Supabase schemas and row-level security, APIs, webhooks, search, caching, background jobs
+- **Healthcare & EMS:** software informed by 12 years in EMS: clinical education, exam prep, first-responder networks
 
-Areas of interest and experience include:
-
-| Discipline | Focus |
-|---|---|
-| SaaS Architecture | Application platforms, subscriptions, scalable services |
-| API Engineering | REST APIs, authentication, integrations, access control |
-| AI Systems | Agents, orchestration, LLMs, intelligent workflows |
-| Distributed Infrastructure | Self-hosting, private networking, connected compute nodes |
-| Database Engineering | Data modeling, caching, indexing, search |
-| Business Automation | Workflow integration, operational systems |
-| Healthcare Technology | Clinical education, EMS workflows, healthcare applications |
-| Real Estate Technology | Property intelligence, lead generation, underwriting |
-| Financial Technology | Business and financial software systems |
+Open to select contracts, consulting and technical partnerships.
 
 ---
-
-# 💼 Consulting & Engineering Services
-
-I work with founders, businesses, and organizations looking to build or improve their technology infrastructure.
-
-### 🤖 AI Integration & Automation
-AI-powered workflows, agent systems, LLM integrations, and business process automation.
-
-### 💻 Custom Software Development
-Web applications, mobile applications, SaaS platforms, dashboards, and internal business tools.
-
-### 🔗 API Development & Systems Integration
-Custom APIs, authentication systems, third-party integrations, and connected business platforms.
-
-### 🏗️ Infrastructure & Deployment
-Docker, Linux, self-hosted services, private networking, deployment pipelines, and application infrastructure.
-
-### 🏥 Healthcare Technology
-Healthcare software, EMS-related applications, nursing education tools, and clinical workflow technology.
-
-### 📈 Business Systems Consulting
-Workflow optimization, operational automation, technology integration, and digital transformation.
-
-**Available for select consulting projects, software development contracts, technical partnerships, and collaborative opportunities.**
-
----
-
-# 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=esteban572&show_icons=true&hide_border=true&theme=github_dark)
+<img src="https://streak-stats.demolab.com/?user=esteban572&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban572&layout=compact&hide_border=true&theme=github_dark)
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-**Interested in collaborating, building a product, or discussing a consulting engagement?**
-
-[![Website](https://img.shields.io/badge/Website-estebanibarra.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.estebanibarra.dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-ibarra-66533a3a7/)
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@e_steban)
-
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.j.ibarra@gmail.com)
-
----
-
-### Building at the intersection of AI, software engineering, business, and healthcare.
-
-*Turning complex ideas into connected, intelligent systems.*
+<sub>Most of my product code lives in private repositories; the stack above is taken from those codebases.</sub>
 
 </div>
